@@ -6,7 +6,7 @@ function Header({ setAboutSelected }) {
       <div className="row">
         <div>
           <h2 className="col">
-            <a data-testid="link" href="/">
+            <a data-testid="link" href="/mlundberg-portfolio/">
               Michael Lundberg
             </a>
           </h2>
