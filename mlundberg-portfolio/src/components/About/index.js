@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid my-5">
       <div className="row justify-content-left">
         <div className="col-8">
           <h2>About Me</h2>
@@ -37,7 +37,7 @@ function About() {
             run, play video games, and going to concerts.
           </p>
         </div>
-        <div className="col-4 ">
+        <div className="col-4 mt-4">
           <img src={require("../../assets/selfie.jpeg")} alt="My picture" className="img-thumbnail h-50"></img>
         </div>
       </div>
