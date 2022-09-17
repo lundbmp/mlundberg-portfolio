@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mlundberg-portfolio/static/css/main.d8c117aa.css",
+    "main.js": "/mlundberg-portfolio/static/js/main.c2891402.js",
+    "static/js/787.887e3f2d.chunk.js": "/mlundberg-portfolio/static/js/787.887e3f2d.chunk.js",
+    "static/media/selfie.jpeg": "/mlundberg-portfolio/static/media/selfie.748d153bc8a2d9fc4b63.jpeg",
+    "static/media/github_logo.png": "/mlundberg-portfolio/static/media/github_logo.4d74fd76ac168df7723c.png",
+    "static/media/pexels-photo-546819.png": "/mlundberg-portfolio/static/media/pexels-photo-546819.87955dcb9e607116294e.png",
+    "static/media/sudsonsale.png": "/mlundberg-portfolio/static/media/sudsonsale.f5a981145febc923a3bc.png",
+    "static/media/boozy-books.png": "/mlundberg-portfolio/static/media/boozy-books.ad3ceeb21779c3482007.png",
+    "index.html": "/mlundberg-portfolio/index.html",
+    "main.d8c117aa.css.map": "/mlundberg-portfolio/static/css/main.d8c117aa.css.map",
+    "main.c2891402.js.map": "/mlundberg-portfolio/static/js/main.c2891402.js.map",
+    "787.887e3f2d.chunk.js.map": "/mlundberg-portfolio/static/js/787.887e3f2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c117aa.css",
+    "static/js/main.c2891402.js"
+  ]
+}
