@@ -27,6 +27,13 @@ const projects = [
     github: "https://github.com/lundbmp/social-network-api",
     deploy: "https://github.com/lundbmp/social-network-api",
   },
+  {
+    name: "Exam Cram",
+    photo: "mobile-view.png",
+    alt: "Social Network Api",
+    github: "https://github.com/lundbmp/flash-cards",
+    deploy: "https://exam-cram.herokuapp.com/",
+  },
 ];
 
 export default projects;
